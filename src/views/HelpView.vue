@@ -57,13 +57,6 @@ export default {
       Kliknij tu
     </a>
 
-    <br><br>
-
-    <i class="pi pi-check"></i>
-    <i class="pi pi-times"></i>
-    <i class="pi pi-cloud"></i>
-    <i class="pi pi-sun"></i>
-
     <br><br><br>
 
     <h2>4. Lista ikonek Prime Vue oraz ich użycie</h2>
@@ -75,11 +68,31 @@ export default {
       Kliknij tu
     </a>
 
+    <br><br>
 
+    <i class="pi pi-check"></i>
+    <i class="pi pi-times"></i>
 
     <br><br><br>
 
-    <h2>5. Przykład pobrania danych za pomocą Axiosa:</h2>
+    <h2>5. Lista ikonek Bootstrap oraz ich użycie</h2>
+    <a
+      href="https://icons.getbootstrap.com/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Kliknij tu
+    </a>
+
+    <br><br>
+
+    <i class="bi bi-sun"></i>
+    <i class="bi bi-cloud"></i>
+    <i class="bi bi-snow"></i>
+
+    <br><br><br>
+
+    <h2>6. Przykład pobrania danych za pomocą Axiosa:</h2>
     {{ user }}
 
     <br><br><br>

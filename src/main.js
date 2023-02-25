@@ -11,6 +11,9 @@ import 'primevue/resources/themes/saga-blue/theme.css';
 import 'primevue/resources/primevue.min.css';
 import 'primeicons/primeicons.css';
 
+// Style Bootstrap
+import 'bootstrap-icons/font/bootstrap-icons.css';
+
 // Własne style
 import './assets/style.css';
 
