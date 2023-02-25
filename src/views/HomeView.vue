@@ -1,9 +1,17 @@
-<script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+<script>
+import HelloWorld from '../components/HelloWorld.vue';
+import Button from 'primevue/button';
+
+export default {
+  components: { },
+  data() {
+    return { }
+  },
+}
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    Tutaj pojawi się Twój kod... Postępuj zgodnie z wytycznymi zadania. Jeżeli nie wiesz jak zacząć to kliknik powyżej na link "Pomoc".
   </main>
 </template>
