@@ -1,11 +1,19 @@
-import { createApp } from 'vue'
-import App from './App.vue'
-import router from './router'
+import { createApp } from 'vue';
+import App from './App.vue';
+import router from './router';
+import PrimeVue from 'primevue/config';
+import ToastService from 'primevue/toastservice';
 
-import './assets/main.css'
+// Style Prime Vue
+import 'primevue/resources/themes/saga-blue/theme.css';
+import 'primevue/resources/primevue.min.css';
+import 'primeicons/primeicons.css';
 
-const app = createApp(App)
+// Własne style
+import './assets/style.css';
 
-app.use(router)
-
-app.mount('#app')
+const app = createApp(App);
+app.use(router);
+app.use(PrimeVue);
+app.use(ToastService);
+app.mount('#app');
