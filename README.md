@@ -1,29 +1,24 @@
-# pzaw-vue
+# PZAW Vue (Projekt startowy)
 
-This template should help get you started developing with Vue 3 in Vite.
+Szablon startowy pod framework Vue zawierający najważniejsze paczki do pracy na lekcji.
 
-## Recommended IDE Setup
+## Wymagania
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[![npm](https://img.shields.io/badge/npm-d40404?logo=npm&style=flat-square)](https://www.npmjs.com/)
+[![Node JS](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=flat-square&logoColor=white)](https://nodejs.org/)
 
-## Customize configuration
+## Instalacja
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Projekt należy pobrać przy użyciu systemu Git, lub poprzez pobranie skompresowanego pliku ZIP (`Code -> Download ZIP`).
 
-## Project Setup
+Następnie uruchamiamy wiersz poleceć (CMD, Terminal), przechodzimy do głównego folderu od projektu i uruchamiamy komendę:
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+## Uruchomienie projektu
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
