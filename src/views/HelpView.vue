@@ -50,7 +50,7 @@ export default {
 
     <h2>3. Lista kontrolek/komponentów Prime Vue</h2>
     <a
-      href="https://primevue.org/icons"
+      href="https://primevue.org/setup"
       target="_blank"
       rel="noopener noreferrer"
     >
@@ -61,7 +61,7 @@ export default {
 
     <h2>4. Lista ikonek Prime Vue oraz ich użycie</h2>
     <a
-      href="https://primevue.org/setup"
+      href="https://primevue.org/icons"
       target="_blank"
       rel="noopener noreferrer"
     >
